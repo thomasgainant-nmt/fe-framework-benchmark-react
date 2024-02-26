@@ -1,0 +1,13 @@
+#placements-header .filters{
+    display: flex;
+
+    height: 100%;
+    width: 100%;
+}
+
+    #placements-header .filters .filter{
+        height: 100%;
+    }
+        #placements-header .filters .filter > *{
+            
+        }
